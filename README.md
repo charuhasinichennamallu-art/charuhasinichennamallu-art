@@ -2,12 +2,11 @@
 
 ### Aspiring Software Developer | Data Science Enthusiast
 
-I'm an aspiring software developer interested in **Artificial Intelligence, Data Science, and Software Development**. I enjoy learning new technologies, solving problems, and building practical projects that can address real-world needs.
+I'm an aspiring software developer interested in Python Development,Data Science, and Software Development. I enjoy learning new technologies, solving problems, and building practical projects that can address real-world needs.
 
 ## 🚀 About Me
 
-- 🎓 BTech student interested in software development and emerging technologies
-- 🤖 Interested in Artificial Intelligence and Data Science
+- 🎓 BTech student interested in software development, Python Development and emerging technologies
 - 💼 Completed internships at Cognifyz and Internspark
 - 🌱 Currently improving my programming, problem-solving, and development skills
 - 💡 Interested in building useful and accessible technology
